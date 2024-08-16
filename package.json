@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "@iam-app-publisher-7/pwa-test-12",
-  "version": "0.1.26",
-  "repository": "https://github.com/LaconicNetwork/loro-testnet-example-pwa",
+  "name": "@blocksync_test2/pwa-test-13",
+  "version": "0.1.29",
+  "repository": "https://github.com/topjsdev/loro-testnet-example-pwa",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
