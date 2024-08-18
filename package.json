@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@blocksync_test6/pwa-test-15",
+  "name": "@blocksync/pwa-test-15",
   "version": "0.1.29",
   "repository": "https://github.com/topjsdev/loro-testnet-example-pwa",
   "scripts": {
